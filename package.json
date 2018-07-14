@@ -1,0 +1,21 @@
+
+{
+  "name": "laravel-snippets",
+  "version": "1.4.0",
+  "description": "Snippets for laravel",
+  "repository": "https://github.com/Alicannklc/laravel-snippets.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": [
+    "snippets",
+    "laravel snippets",
+    "php snippets",
+    "laravel",
+    "php",
+	"blade",
+    "php7"
+  ],
+  "dependencies": {}
+}
