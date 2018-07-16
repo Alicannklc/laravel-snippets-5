@@ -1,2 +1,26 @@
-# laravel-snippets
-laravel-snippets
+## Snippets
+
+* Auth
+* Cache
+* Console
+* Config
+* Cookie
+* Crypt
+* DB
+* Eloquent
+* Event
+* Hash
+* Helper
+* Input
+* Log
+* Mail
+* Redirect
+* Relation
+* Request
+* Response
+* Route
+* Schema
+* Session
+* Storage
+* View
+* Validator
