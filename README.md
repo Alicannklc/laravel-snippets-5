@@ -1,3 +1,5 @@
+## Plugin url : https://atom.io/packages/laravel-snippets-5
+
 ## Snippets
 
 * Auth
