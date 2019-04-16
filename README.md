@@ -1,3 +1,9 @@
+Donations
+----------
+Donations are **greatly appreciated!**
+
+**[BUY ME A COFFEE](https://www.patreon.com/join/alicannklc)**
+
 ## Plugin url : https://atom.io/packages/laravel-snippets-5
 
 ## Snippets
